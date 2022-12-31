@@ -1,0 +1,55 @@
+.titleone{
+    margin: 4rem 20rem;
+    font-size: 3rem;
+}
+.ourtext{
+    margin: 1rem 4rem;
+    color: black;
+}
+.first-des{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.ourtext{
+    width: 60%;
+    text-align: start;
+    font-size: 1.1rem;
+}
+.destxt{
+    width: 60%;
+}
+ .titlee{
+    margin: 0rem 6rem;
+} 
+.images{
+    
+    display: flex;
+     justify-content: space-between;
+    z-index: -99;
+}
+.images img{
+    width: 40%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 6px;
+    box-shadow: -1px 1px 62px -18px rgb(0, 0, 0.19);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
